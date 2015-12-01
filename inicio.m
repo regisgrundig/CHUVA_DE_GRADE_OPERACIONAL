@@ -11,7 +11,7 @@ clear all
 % define as datas de controle de tudo que o script faz
 %
 DATA_INICIAL=datenum(2014,12,31);
-DATA_FINAL=datenum(2015,11,26);        
+DATA_FINAL=datenum(2015,11,30);        
 DATA_DOWNLOAD_INICIAL=datenum(2015,1,1);
 % 
 % verifica se tem arquivo de CONTORNOS.xlsx
